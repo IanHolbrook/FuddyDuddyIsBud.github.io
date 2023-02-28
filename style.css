@@ -89,6 +89,13 @@
 	margin-bottom: 10px;
 	}
 	
+	#game{
+		width: 500px;
+		height: 200px;
+		border: 1px solid black;
+		margin: auto;
+	}
+	
 	/* Footer styles */
 	footer {
 	background-color: #333;
